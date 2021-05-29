@@ -1,7 +1,9 @@
-### Hello! I'm **Anthony**, a Computer Science undergrad from New Jersey with a strong interest in virtual reality.
+### Hello! 👋
+
+I'm Anthony, a Computer Science undergrad from New Jersey with a strong interest in virtual reality.
 
 - View my [programming portfolio] or check out some of the [3D printed art] I've made!
-- Check me out on [Twitter] or [Thingiverse]!
+- Also check me out on [Twitter] and [Thingiverse]!
 
 [programming portfolio]: https://bigft.io/portfolio
 [3D printed art]: https://bigft.io/art
