@@ -12,5 +12,5 @@ I'm Anthony, a senior Computer Science undergrad from New Jersey with a strong i
 [3D printed art]: https://bigft.io/art
 [Twitter]: https://twitter.com/bigfoootttt
 [Thingiverse]: https://www.thingiverse.com/bigfoott
-[VR Speedrunning Leaderboards]: https://bigft.io/vrsr
+[VR Speedrunning Leaderboards]: https://vrspeed.run
 [here]: https://github.com/VRSpeedruns
