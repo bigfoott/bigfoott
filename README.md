@@ -1,6 +1,6 @@
-## Hello! 👋
+### Hello! 👋
 
-### I'm Anthony, a senior Computer Science undergrad from New Jersey.
+#### I'm Anthony, a senior Computer Science undergrad from New Jersey with an interest in VR.
 
 Other than school, I'm currently focused on the [VR Speedrunning Leaderboards], a project that makes it easy to view different VR games' leaderboards. Check out the various projects related to VRSR [here].
 
