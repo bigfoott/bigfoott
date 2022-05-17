@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-#### I'm Anthony, software dev from New Jersey with a Bachelor's in Computer Science and an interest in web development and virtual reality.
+#### I'm Anthony, software dev from New Jersey with a Bachelor's in Computer Science and an interest in web dev and virtual reality.
 
 #
 
