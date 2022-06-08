@@ -7,6 +7,7 @@
 I'm currently focused on a few projects!
 
 * [VR Speedrunning Leaderboards] is a project that makes it easy to view different VR games' leaderboards. Check out the various projects related to VRSR [here].
+* [PoGOEvents] is a project that allows you to add a list of current/upcoming [Pokemon GO] events to your iOS home screen! Uses data from [ScrapedDuck].
 * [ScrapedDuck] is a project that routinely scrapes [LeekDuck.com] and pushes the found data to a branch on the repository, to be used by other external applications.
 * [MMM-PokemonGOEvents] is a project that displays Pokémon GO events on a [MagicMirror²].
 
@@ -16,8 +17,13 @@ View my [programming portfolio] or check out some of the [3D printed art] I've m
 
 [VR Speedrunning Leaderboards]: https://vrspeed.run
 [here]: https://github.com/VRSpeedruns
+
+[PoGOEvents]: https://github.com/bigfoott/PoGOEvents
+[Pokemon GO]: https://pokemongolive.com
+
 [ScrapedDuck]: https://github.com/bigfoott/ScrapedDuck
 [LeekDuck.com]: https://leekduck.com
+
 [MMM-PokemonGOEvents]: https://github.com/bigfoott/MMM-PokemonGOEvents
 [MagicMirror²]: https://magicmirror.builders/
 
